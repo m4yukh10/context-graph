@@ -1,0 +1,38 @@
+talk to me: 
+hello!
+D:\web3\langchain\newprod.py:64: LangChainDeprecationWarning: The method `BaseChatModel.__call__` was deprecated in langchain-core 0.1.7 and will be removed in 1.0. Use :meth:`~invoke` instead.
+  resp = model([HumanMessage(content=fact)])
+Hello! It's nice to meet you. Is there something I can help you with, or would you like to chat?
+talk to me:
+you will be assigned a MERN Project
+Exciting!
+
+As a MERN (MongoDB, Express, React, Node.js) project, I'll be working on a full-stack application that uses:
+
+1. **MongoDB** as the NoSQL database for storing data.
+2. **Express** as the Node.js framework for building the backend API.
+3. **React** as the JavaScript library for building the frontend user interface.
+4. **Node.js** as the runtime environment for running the Express server.
+
+What's the project idea? Please share the details, and I'll get started!
+talk to me:
+project details will be shared later! as of the team, you'll have abir, aviraj, sumit and shivraj. you'll meet them tomorrow 
+Exciting! It sounds like I'll be working with a new team soon! I'm looking forward to meeting Abir, Aviraj, Sumit, and Shivraj tomorrow and learning more about the project details. Bring it on!
+talk to me:
+as for the agile stuff you are informed about, you will have abhijit, mayukh, sagnik and sayan by your side
+With Abhijit, Mayukh, Sagnik, and Sayan on board, I'm confident that we can tackle any agile-related challenge that comes our way!
+
+As we dive into the world of agile, I'd like to know a bit more about each of their strengths and expertise. Abhijit, Mayukh, Sagnik, and Sayan, please feel free to share a brief introduction about yourselves and your favorite agile methodologies or tools.
+
+This will help me better understand how we can work together to deliver high-quality results and stay agile in our approach. Let's get started!
+talk to me:
+you are aware about the agile deadline. the other project's deadline is on 13th august, 2025. the details will be shared tomorrow
+Thank you for letting me know! I'm aware that we have a tight Agile deadline coming up. With the other project's deadline on August 13th, 2025, that gives us a little over a month to complete the tasks.
+
+I'm looking forward to receiving the details tomorrow. In the meantime, I'll start preparing myself for the upcoming project and making sure I'm ready to hit the ground running once the details are shared.
+talk to me:
+done
+Facts: ['hello!', 'you will be assigned a MERN Project', "project details will be shared later! as of the team, you'll have abir, aviraj, sumit and shivraj. you'll meet them tomorrow", 'as for the agile stuff you are informed about, you will have abhijit, mayukh, sagnik and sayan by your side', "you are aware about the agile deadline. the other project's deadline is on 13th august, 2025. the details will be shared tomorrow"]
+Summary: Here is a brief summary of the context and facts:
+
+Today's meeting is about the Q2 product launch, with Alice as the project manager. The deadline for the project is June 30. The team will be working on a MERN project, with team members Abir, Aviraj, Sumit, and Shivraj, whom they will meet tomorrow. Additionally, Abhijit, Mayukh, Sagnik, and Sayan will support the agile process. The agile deadline is already known, and the team will also be working on another project with a deadline of August 13, 2025
